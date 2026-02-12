@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ファンタスティック・ナルシスティック",
+  "base_artist": "Eye",
+  "createdAt": "2026-02-12T06:52:37.813083Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ファンタスティック・ナルシスティック",
+      "artist": "Eye",
+      "has_synced": false,
+      "path": "select/pl_01_ファンタスティック・ナルシスティック_Eye.txt"
+    }
+  ]
+}
